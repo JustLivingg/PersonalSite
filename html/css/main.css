@@ -1,6 +1,22 @@
-h1 {
-  color: maroon;
-  background-color: lightblue;
-  font-family: cursive;
-  
+#intro {
+  font: bold;
+  text-align: center;
+  margin-top: 125px;
+}
+
+#about {
+  margin: 20px;
+  margin-right: 600px;
+}
+
+#paragraph {
+  text-indent: 25px;
+}
+
+#skills {
+  margin: 20px;
+}
+
+.column {
+  padding: 20px;
 }
